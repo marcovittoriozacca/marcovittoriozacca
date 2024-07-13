@@ -32,6 +32,14 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=node" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="git logo"  />
 </div>
 </div>
 
