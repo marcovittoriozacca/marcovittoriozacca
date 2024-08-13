@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="git logo"  />
 </div>
